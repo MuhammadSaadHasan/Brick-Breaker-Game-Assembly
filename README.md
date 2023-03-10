@@ -1,4 +1,4 @@
-#Brick Breaker Game in Assembly Language
+# Brick Breaker Game in Assembly Language
 
 I would like to extend a special thank you Muhammad Ali Khan for his contributions to this project.
 Ali created an intuitive menu system and fixed errors in the assembly code.
